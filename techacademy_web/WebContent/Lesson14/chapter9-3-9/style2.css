@@ -1,0 +1,8 @@
+.long{
+   width:200%;
+   background:skyblue;
+}
+.box{
+ overflow:hidden;
+ 
+ }
